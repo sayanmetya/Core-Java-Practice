@@ -42,5 +42,7 @@ public class Swap_Two_Number {
         //Using Single Statement
     	b=a+b-(a=b);
     	System.out.println("After Swapping a is "+a+" and b is "+b);
+		 //
     }
 }
+
